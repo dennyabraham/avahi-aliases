@@ -1,6 +1,6 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 
-import avahi, dbus
+import avahi,3 dbus3
 from encodings.idna import ToASCII
 
 # Got these from /usr/include/avahi-common/defs.h
